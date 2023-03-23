@@ -1,4 +1,4 @@
-# Datacamp Data Science Project 1
+# Datacamp Data Science with Python Project 1
 ## Investigating Netflix Movies and Guest Stars in The Office
 
 Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
