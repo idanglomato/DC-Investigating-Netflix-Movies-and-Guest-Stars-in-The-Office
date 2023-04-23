@@ -1,4 +1,4 @@
-# Datacamp Data Science with Python Project 1
+# Datacamp Project
 ## Investigating Netflix Movies and Guest Stars in The Office
 In this project, you’ll apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. You’ll press “watch next episode” to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
 
